@@ -1,0 +1,44 @@
+[23:23:23] 🟢 TEST: Application started successfully
+[23:23:24] 🔧 TEST: Python version 3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)]
+[23:23:26] 🔧 TEST: Platform win32
+[23:23:28] ✅ SUCCESS: pynput imported
+[23:23:29] ✅ SUCCESS: requests imported
+[23:23:30] 🎯 Starting keyboard listener...
+[23:23:31] 💡 Type something in any application!
+[23:23:33] ⏹️  Press 'Q' to stop
+[23:23:48] KEY: [ENTER]
+[23:23:51] KEY: 'n' | Buffer: '
+n'
+[23:23:52] KEY: 'm' | Buffer: '
+nm'
+[23:23:53] KEY: '' | Buffer: '
+nm'
+[23:23:55] KEY: Key.ctrl_r
+[23:23:56] KEY: Key.shift_r
+[23:23:56] KEY: 'a' | Buffer: '
+nma'
+[23:23:57] KEY: 'i' | Buffer: '
+nmai'
+[23:23:58] KEY: [ENTER]
+[23:23:58] KEY: 'a' | Buffer: '
+nmai
+a'
+[23:23:59] KEY: '' | Buffer: '
+nmai
+a'
+[23:24:00] KEY: Key.shift_r
+[23:24:01] KEY: ';' | Buffer: '
+nmai
+a;'
+[23:24:04] KEY: 'a' | Buffer: '
+nmai
+a;a'
+[23:24:07] KEY: Key.ctrl_l
+[23:24:36] KEY: Key.ctrl_l
+[23:25:13] KEY: Key.ctrl_l
+[23:25:26] KEY: Key.esc
+[23:25:27] KEY: Key.esc
+[23:25:27] KEY: Key.esc
+[23:25:28] KEY: Key.esc
+[23:25:29] KEY: Key.esc
+[23:25:31] KEY: Key.esc

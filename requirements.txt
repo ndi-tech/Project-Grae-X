@@ -1,0 +1,7 @@
+tkinter
+matplotlib
+requests
+threading
+datetime
+random
+time
