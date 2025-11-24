@@ -49,7 +49,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/grae-x-labs.git
+git clone (https://github.com/ndi-tech/Project-Grae-X.git)
 cd grae-x-labs
 Install dependencies
 
