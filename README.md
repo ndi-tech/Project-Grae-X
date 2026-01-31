@@ -154,11 +154,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📞 Contact
 GRAE-X Security Research
 
-GitHub: @yourusername
+GitHub: @ndi-tech
 
 Discord: Join our Security Community
 
-Email: security@grae-x-labs.com
+Email: info@graexlabs.com
 
 Remember: Knowledge is power. Use it responsibly. 🔐
 
